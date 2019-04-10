@@ -59,6 +59,13 @@ body {
   text-align: left;
   background-color: #fff; }
 
+.lass {
+  border-radius: 10px;
+  border: #000 solid;
+  margin-bottom: 5px;
+  border-width: 2px;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -9086,7 +9093,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #000000;
-  padding: 1em 0;
+  padding: 3.5em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -9655,6 +9662,10 @@ textarea.form-control {
     margin-right: 5px; }
     .block-21 .text .meta > div a {
       color: #b3b3b3; }
+
+.contact { 
+
+}
 
 /* Blog*/
 .post-info {
